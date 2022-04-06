@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and Games
 - 🌱 I’m currently learning Game Engine Architecture
 - 💞️ I’m looking to collaborate on vTuber software, PersonaGen and other projects!
-- 📫 How to reach me... uhm... ¯\\_(ツ)_/¯
+- 📫 How to reach me... uhm... ¯\\\_(ツ)\_/¯
 
 <!---
 ButterCream55/ButterCream55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
